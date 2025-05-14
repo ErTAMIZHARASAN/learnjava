@@ -46,3 +46,12 @@ public class Main{
           }
      }
 }
+
+
+//JAVA OOPS 
+
+// CETATE CLASS :
+
+// create a Student class
+
+
